@@ -1,0 +1,15 @@
+data/GameLife.pro.user.i
+data/gameconst.h.i
+data/main.cpp.i
+data/mainwindow.h.i
+data/mainwindow.cpp.i
+data/object.h.i
+data/.hgignore.i
+data/configuration.h.i
+data/scene.h.i
+data/scene.cpp.i
+data/object.cpp.i
+data/rules.h.i
+data/GameLife.pro.i
+data/rules.cpp.i
+data/configuration.cpp.i
